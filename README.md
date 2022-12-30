@@ -10,8 +10,8 @@ Existing models:
 - Bi RNN
 
 Proposed models:
-BLSTM-CNN (BERT embedding)
-BLSTM-CNN (GloVe embedding)
+- BLSTM-CNN (BERT embedding)
+- BLSTM-CNN (GloVe embedding)
 
 Our Model (BLSTM-CNN (GloVe embedding) + attention) achieved an accuracy of 0.9275 on the Emotions dataset.
 More details on our models and experiments can be found in Report.pdf
